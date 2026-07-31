@@ -1,4 +1,4 @@
-# 📊 Dashboard Executivo de Vendas – Xbox Game Pass (Python + Excel)
+# 📊 Dashboard Executivo de Vendas – Xbox Game Pass
 
 ## 📌 Proposta do Exercício
 Este projeto tem como objetivo desenvolver um **Dashboard Executivo de Vendas do Xbox Game Pass**, utilizando **Python no Google Colab** para realizar todo o processo de **ETL (Extração, Transformação e Carga)**, análise de dados e **geração automatizada de um dashboard premium em Excel**.
